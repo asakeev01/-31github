@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def differenceOfSum(self, nums: List[int]) -> int:
         elSum = 0
